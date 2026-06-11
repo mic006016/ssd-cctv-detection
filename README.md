@@ -1,4 +1,7 @@
-# SSD 사물인지 CCTV
+# SSD 사물 인지 CCTV
+
+### SSD 사물 인지 CCTV 추론 응용
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/848dbe25-c7a8-438a-8030-6ea8c8e3f475" />
 
 ### 사진 파일 추론
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/18edf541-607f-48dc-a98e-b7fbc90eb1ea" />
